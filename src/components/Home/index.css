@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.page {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(to bottom, #2b2c49, white);
+}
